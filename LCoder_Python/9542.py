@@ -12,5 +12,5 @@ if menu == 1:
     print("{}을 선택하셨습니다.".format(menu1))
 elif menu == 2:
     print("{}을 선택하셨습니다.".format(menu2))
-else:
+elif menu == 3:
     print("{}을 선택하셨습니다.".format(menu3))
