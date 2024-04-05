@@ -7,4 +7,4 @@ elif num == 2:
 elif num == 3:
     print("chick")
 else:
-    print("I don't know")
+    print("I don't know.")
