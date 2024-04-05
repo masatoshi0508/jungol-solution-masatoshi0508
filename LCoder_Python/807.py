@@ -10,3 +10,5 @@ elif score == "D":
     print("Effort")
 elif score == "F":
     print("Failure")
+else:
+    print("Mistake")
