@@ -11,5 +11,7 @@ while True:
 
 avg = total // count
 
-print(f"홀수의 합 = {total}")
-print(f"홀수의 평균 = {avg}")
+print(f"""
+홀수의 합 = {total}
+홀수의 평균 = {avg}
+""")
