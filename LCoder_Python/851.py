@@ -5,8 +5,8 @@ y = int(y)
 if x > y:
     for i in range(y, x+1):
         print(i, end=" ")
-if x < y:
+elif x < y:
     for i in range(x, y+1):
         print(i, end=" ")
-if x == y:
+else:
     print(x)
