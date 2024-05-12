@@ -1,4 +1,5 @@
 x, y = map(int, input().split())
+#xが縦、yが横
 matrix = []
 
 for i in range(1, x+1):
